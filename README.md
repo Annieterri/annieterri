@@ -1,4 +1,3 @@
-# github.com-annieterri-annieterri
 # Hi, I'm Annie
 
 I'm a Cybersecurity Engineer focused on Cloud Security, entra ID, Microsoft XDR, threat Detection, and Microsoft Sentinel.  
